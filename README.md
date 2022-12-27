@@ -1,5 +1,5 @@
 # ToDo-List
-A Simple ToDo-list application made using Java Swing for my semester final project!
+A Simple ToDo-list application made using Java Swing for my final project for ITP 120-01WA !
 
 - IMPORTANT -
 both .java files must be open in order for application to run correctly.
