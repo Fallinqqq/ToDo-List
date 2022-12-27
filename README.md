@@ -1,10 +1,8 @@
 # ToDo-List
 A Simple ToDo-list application made using Java Swing for my semester final project!
 
-- IMPORTANT -
+- -IMPORTANT -
 both .java files must be open in order for application to run correctly.
-
-- Pictures of running application -
 
 ![pic1](https://user-images.githubusercontent.com/62212206/209599825-088dbe7f-6d8e-4706-b219-39f9ba93a8c1.png)
 ![pic2](https://user-images.githubusercontent.com/62212206/209599829-20ce483d-de88-48e0-94d5-a13e58f88667.png)
