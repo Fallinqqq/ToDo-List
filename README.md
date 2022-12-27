@@ -1,4 +1,4 @@
-# ToDo-List
+# ToDo-List :ballot_box_with_check::clipboard:
 A Simple ToDo-list application made using Java Swing for my final project for ITP 120-01WA !
 
 - IMPORTANT -
