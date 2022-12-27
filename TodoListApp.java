@@ -1,3 +1,6 @@
+// Grace Foster
+// TO-Do List application final semester project
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.MouseAdapter;
